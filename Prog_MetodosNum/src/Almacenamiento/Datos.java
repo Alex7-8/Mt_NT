@@ -1,4 +1,6 @@
 package Almacenamiento;
-public class Datos {
 
+public class Datos {
+public String Re;
+    
 }
